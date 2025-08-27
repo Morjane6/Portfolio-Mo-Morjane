@@ -65,9 +65,9 @@
       "id": "4",
       "src": "./img/Automatisert_ID_kontroll_resized.jpg",
       "title": "Automatisert-ID-Kontroll",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Jeg utviklet et automatisert ID-kontrollsystem basert på ansiktsgjenkjenning ved hjelp av Raspberry Pi, Picamera2, LED-moduler og programvare som OpenCV, dlib og MySQL. Systemet verifiserer alder automatisk, har QR-kode som backup-løsning og inkluderer en egen nødetat-modus for identifikasjon uten fysisk ID. Prosjektet ga praktisk erfaring med maskinlæring, bildeanalyse, datasikkerhet og etisk bruk av teknologi.",
       "github": "https://github.com/Morjane6/SSS3000R--ID-kontroll-med-ansiktsgjenkjenning",
-      "demo": "./video/Automatisert-ID-Kontroll.mp4"
+      "demo": "https://morjane6.github.io/Bookflow-website/"
     }
   ],
   "testimonial": [
