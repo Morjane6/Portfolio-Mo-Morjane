@@ -1,0 +1,133 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/frontend-icon.png",
+      "title": "Front-End",
+      "description": [
+        { "title": "HTML", "level": "Middels" },
+        { "title": "CSS", "level": "Middels" },
+        { "title": "JavaScript", "level": "Grunnleggende" },
+        { "title": "React", "level": "Grunnleggende" }
+      ]
+    },
+    {
+      "id": "2",
+      "src": "./img/backend.png",
+      "title": "Back-End",
+      "description": [
+        { "title": "SQL Database", "level": "Middels" },
+        { "title": "Python", "level": "Middels" },
+        { "title": "PHP", "level": "Middels" },
+        { "title": "JavaScript", "level": "Grunnleggende" },
+        { "title": "Java", "level": "Grunnleggende" }
+      ]
+    },
+    {
+      "id": "3",
+      "src": "./img/tools3.png",
+      "title": "Tools",
+      "description": [
+        { "title": "Github", "level": "Middels" },
+        { "title": "Git", "level": "Middels" },
+        { "title": "XAMPP", "level": "Middels" },
+        { "title": "Android Studio", "level": "Middels" },
+        { "title": "VS Code", "level": "Middels" }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Book-webside1_resized.png",
+      "title": "Bookflow",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "github": "https://github.com/Morjane6/Bookflow-website",
+      "demo": "https://morjane6.github.io/Bookflow-website/"
+    },
+    {
+      "id": "2",
+      "src": "./img/SafariMain_resized.jpg",
+      "title": "Safari Restaurant",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "github": "https://github.com/yourusername/project-two",
+      "demo": "https://safari-africanfood.free.nf"
+    },
+    {
+      "id": "3",
+      "src": "./img/SafariMain_resized.jpg",
+      "title": "Mix Go'Biten",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "github": "https://github.com/Morjane6/MixGo-Biten",
+      "demo": "https://mixgobiten.infinityfreeapp.com"
+    },
+    {
+      "id": "4",
+      "src": "./img/Automatisert_ID_kontroll_resized.jpg",
+      "title": "Automatisert-ID-Kontroll",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "github": "https://github.com/Morjane6/SSS3000R--ID-kontroll-med-ansiktsgjenkjenning",
+      "demo": "./video/Automatisert-ID-Kontroll.mp4"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Bookflow",
+      "img": "./img/Book-webside1.png",
+      "description": "This is the description for Project One. Built with React and CSS.",
+      "github": "https://github.com/Morjane6/Bookflow-website",
+      "demo": "https://morjane6.github.io/Bookflow-website/"
+    },
+    {
+      "id": "2",
+      "title": "Safari Restaurant",
+      "img": "./img/SafariMain.jpg",
+      "description": "This is the description for Project Two. Includes Node.js backend.",
+      "github": "https://github.com/yourusername/project-two",
+      "demo": "https://safari-africanfood.free.nf/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "img": "./img/project-3.png",
+      "description": "This is the description for Project Three. Focused on UI/UX design.",
+      "github": "https://github.com/yourusername/project-three",
+      "demo": "https://yourdemo.com/project-three"
+    },
+    {
+      "id": "4",
+      "title": "Project four",
+      "img": "./img/project-3.png",
+      "description": "This is the description for Project Three. Focused on UI/UX design.",
+      "github": "https://github.com/Morjane6/SSS3000R--ID-kontroll-med-ansiktsgjenkjenning",
+      "demo": "./video/Automatisert-ID-Kontroll.mp4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+/* About Us */
+/* About Us */
+.about--section {
+  display: grid;
+  padding: 133.3px 85.3px;
+  align-items: center;
+  gap: 114.6px;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: var(--bg-shade);;
+}
+
+/* Make image responsive */
+.about--section--img > img {
+  width: 100%;
+  height: auto; /* change from 100% to auto to maintain aspect ratio */
+}
+
+/* Mobile / Small screens */
+@media (max-width: 768px) {
+  .about--section {
+    grid-template-columns: 1fr; /* single column */
+    text-align: center;         /* center text */
+    padding: 60px 20px;         /* smaller padding on mobile */
+    gap: 50px;                  /* reduce gap */
+  }
+
+  .about--section--img {
+    justify-self: center;       /* center the image in the grid */
+  }
+}
+
+/* About Us Ends */
