@@ -12,7 +12,7 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            Målet mitt er å bygge løsninger som både, <br /> ser bra ut og
+            Målet mitt er å bygge løsninger som både <br /> ser bra ut og
             fungerer godt for brukeren.
           </p>
         </div>

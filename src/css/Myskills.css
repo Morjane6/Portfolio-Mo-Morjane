@@ -95,9 +95,21 @@ article .icon {
 }
 
 /* Mobile (<= 768px): 1 column */
+/* Mobile (<= 768px) */
 @media (max-width: 768px) {
+  .skills--section {
+    align-items: center; /* sentrerer alt innhold horisontalt */
+    text-align: center;  /* sentrerer teksten i children */
+  }
+
   .skills--section--container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* 1 column på mobil */
+    width: 100%;
+  }
+
+  .skills--section .section--heading {
+    width: 100%;
   }
 }
+
 /* Skills Style Ends */
