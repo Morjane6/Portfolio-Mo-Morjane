@@ -22,7 +22,7 @@
 }
 .portfolio--section--container {
   display: flex;
-  align-items: center;
+  align-items: stretch; /* alle cards blir like høye */
   justify-content: center;
   gap: 22.6px;
   width: 100%;
@@ -37,14 +37,16 @@
   width: 100%;
 }
 .portfolio--section--card {
+  flex: 1 0 0;
+  height: 100%; /* tar full høyde fra parent */
   display: flex;
   flex-direction: column;
+
   align-items: flex-start;
   gap: 32px;
-  flex: 1 0 0;
 
   cursor: pointer;
-  min-height: auto;
+padding-bottom: 50px;
   border-radius: 36px;
   background: rgba(255, 255, 255, 0.15); /* transparent glass */
 
