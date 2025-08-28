@@ -23,9 +23,15 @@
   gap: 21.333px;
 }
 
-.hero--section--content-box > button {
-  margin-top: 21.333px;
+
+/* Knapp-container for Hero Section */
+.hero--section--buttons {
+  display: flex;       /* plasserer knappene horisontalt */
+  gap: 16px;           /* mellomrom mellom knappene */
+  flex-wrap: wrap;     /* flytt til neste linje på små skjermer */
+
 }
+
 
 .hero--section--title {
   color: var(--heading-color);
