@@ -5,10 +5,10 @@
       "src": "./img/frontend-icon.png",
       "title": "Front-End",
       "description": [
-        { "title": "HTML", "level": "Middels" },
-        { "title": "CSS", "level": "Middels" },
-        { "title": "JavaScript", "level": "Grunnleggende" },
-        { "title": "React", "level": "Grunnleggende" }
+        { "title": "HTML" },
+        { "title": "CSS" },
+        { "title": "JavaScript" },
+        { "title": "React" }
       ]
     },
     {
@@ -16,11 +16,10 @@
       "src": "./img/backend.png",
       "title": "Back-End",
       "description": [
-        { "title": "SQL Database", "level": "Middels" },
-        { "title": "Python", "level": "Middels" },
-        { "title": "PHP", "level": "Middels" },
-        { "title": "JavaScript", "level": "Grunnleggende" },
-        { "title": "Java", "level": "Grunnleggende" }
+        { "title": "SQL Database" },
+        { "title": "Python" },
+        { "title": "PHP" },
+        { "title": "JavaScript" }
       ]
     },
     {
@@ -28,11 +27,9 @@
       "src": "./img/tools3.png",
       "title": "Tools",
       "description": [
-        { "title": "Github", "level": "Middels" },
-        { "title": "Git", "level": "Middels" },
-        { "title": "XAMPP", "level": "Middels" },
-        { "title": "Android Studio", "level": "Middels" },
-        { "title": "VS Code", "level": "Middels" }
+        { "title": "Github" },
+        { "title": "Git" },
+        { "title": "XAMPP" }
       ]
     }
   ],

@@ -106,6 +106,8 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
+      <p className="copyright">&copy; 2025 Portfolio Mohammed Morjane💖</p> 
+      
     </footer>
   );
 }

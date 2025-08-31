@@ -7,9 +7,9 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hei, Jeg er Mohammed Morjane</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Front-end</span>
+            <span className="hero--section-title--color">Webutvikler</span>
             <br />
-            Developer
+            Fullstack 
           </h1>
           <p className="hero--section-description">
             Målet mitt er å bygge løsninger som både <br /> ser bra ut og

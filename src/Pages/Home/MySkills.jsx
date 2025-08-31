@@ -27,7 +27,7 @@ export default function MySkills() {
                  
                   <div>
                     <h4>{desc.title}</h4>
-                    <p>{desc.level}</p>
+                   
                   </div>
                 </article>
               ))}
