@@ -30,7 +30,7 @@ export default function HeroSection() {
 
           <button
             className="btn btn-color-1"
-            onClick={() => window.open("./img/Mohammed_Morjane_CV_2025.pdf")}
+            onClick={() => window.open("./cv/Mohammed-MorjaneCV-2025.pdf")}
           >
             Download CV
           </button>
