@@ -29,7 +29,8 @@
       "description": [
         { "title": "Github" },
         { "title": "Git" },
-        { "title": "XAMPP" }
+        { "title": "XAMPP" },
+        { "title": "Npm" }
       ]
     }
   ],
