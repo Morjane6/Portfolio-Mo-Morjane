@@ -6,11 +6,11 @@ export default function HeroSection() {
       <div className="hero--section--content-box">
         <div className="hero--section--content">
           <p className="section--title">Hei, Jeg er Mohammed Morjane</p>
-          <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Webutvikler</span>
+          <h2 className="hero--section--title">
+            <span className="hero--section-title--color">Webutvikler &</span>
             <br />
-            Fullstack 
-          </h1>
+            programmerer
+          </h2>
           <p className="hero--section-description">
             Målet mitt er å bygge løsninger som både <br /> ser bra ut og
             fungerer godt for brukeren.
