@@ -21,7 +21,8 @@
   gap: 21.3px;
 }
 .portfolio--section--container {
-  display: flex;
+  display: grid;
+   grid-template-columns: repeat(4, 1fr); /* alltid 3 per rad */
   align-items: stretch; /* alle cards blir like høye */
   justify-content: center;
   gap: 22.6px;
@@ -74,5 +75,18 @@ padding-bottom: 50px;
 }
 .portfolio--section--card:hover {
   box-shadow: 0 12px 32px #13b3f3;
+}
+/* Tablet */
+@media (max-width: 900px) {
+  .portfolio--section--container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobil */
+@media (max-width: 600px) {
+  .portfolio--section--container {
+    grid-template-columns: 1fr;
+  }
 }
 /* Portfolio Ends */

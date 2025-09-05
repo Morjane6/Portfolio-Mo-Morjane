@@ -37,6 +37,14 @@
   "portfolio": [
     {
       "id": "1",
+      "src": "./img/Tamim-Taxi-Logo.png",
+      "title": "TamimTaxi",
+      "description": "Dette er min første nettside, utviklet for en klassekamerat som eide et lokalt taxiselskap. Jeg brukte HTML, CSS og JavaScript for å lage den interaktiv og brukervennlig.",
+      "github": "https://github.com/Morjane6/TamimTaxi",
+      "demo": "https://morjane6.github.io/TamimTaxi/index.html"
+    },
+    {
+      "id": "2",
       "src": "./img/Book-webside1_resized.png",
       "title": "Bookflow",
       "description": "En nettbutikk for salg av brukte bøker med fokus på miljø, brukervennlighet og e-handel. Designet i Miro og utviklet med HTML, CSS og JavaScript.",
@@ -44,7 +52,7 @@
       "demo": "https://morjane6.github.io/Bookflow-website/"
     },
     {
-      "id": "2",
+      "id": "3",
       "src": "./img/SafariMain_resized.jpg",
       "title": "Safari Restaurant",
       "description": "En webapplikasjon for Safari Grill Restaurant med funksjoner som online bestilling, bordreservasjon. Bygget med HTML, CSS, JavaScript, PHP og MySQL.",
@@ -52,7 +60,7 @@
       "demo": "https://safari-africanfood.free.nf"
     },
     {
-      "id": "3",
+      "id": "4",
       "src": "./img/Mix5.jpg",
       "title": "Mix Go'Biten",
       "description": "En fullstack webapplikasjon med HTML, CSS, JavaScript, PHP og MySQL for Mix Go’Biten Åmot, inkludert bestillingssystem, administrasjonspanel.",
@@ -60,7 +68,7 @@
       "demo": "https://mixgobiten.infinityfreeapp.com"
     },
     {
-      "id": "4",
+      "id": "5",
       "src": "./img/Automatisert_ID_kontroll_resized.jpg",
       "title": "Automatisert-ID-Kontroll",
       "description": "Et automatisert ID-kontrollsystem basert på ansiktsgjenkjenning ved hjelp av Raspberry Pi, Picamera2, LED-moduler, OpenCV, dlib, MySQL og QR-kode som backup-løsning.",
