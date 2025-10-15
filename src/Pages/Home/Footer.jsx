@@ -7,7 +7,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo1.png" alt="Logo" class="logo" />
+          <img src="./img/logo.png" alt="Logo" class="logo" />
         </div>
         <div className="footer--items">
           <ul>
@@ -106,7 +106,7 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
-      <p className="copyright">&copy; 2025 Portfolio Mohammed Morjane💖</p> 
+      <p className="copyright">&copy; 2025 Portfolio Mo Morjane💖</p> 
       
     </footer>
   );

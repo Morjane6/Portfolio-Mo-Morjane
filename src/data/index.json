@@ -7,8 +7,7 @@
       "description": [
         { "title": "HTML" },
         { "title": "CSS" },
-        { "title": "JavaScript" },
-        { "title": "React" }
+        { "title": "JavaScript" }
       ]
     },
     {
@@ -19,6 +18,7 @@
         { "title": "SQL Database" },
         { "title": "Python" },
         { "title": "PHP" },
+        { "title": "Java" },
         { "title": "JavaScript" }
       ]
     },
@@ -29,7 +29,7 @@
       "description": [
         { "title": "Github" },
         { "title": "Git" },
-        { "title": "XAMPP" },
+        { "title": "React" },
         { "title": "Npm" }
       ]
     }

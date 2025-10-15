@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content-box">
         <div className="hero--section--content">
-          <p className="section--title">Hei, Jeg er Mohammed Morjane</p>
+          <p className="section--title">Hei, Jeg er Mo Morjane</p>
           <h2 className="hero--section--title">
             <span className="hero--section-title--color">Webutvikler &</span>
             <br />
