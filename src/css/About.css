@@ -1,17 +1,21 @@
 /* About Us */
 .about--section {
-  display: grid;
   padding: 133.3px 85.3px;
   align-items: center;
   gap: 114.6px;
-  grid-template-columns: repeat(2, 1fr);
+
   background-color: var(--bg-shade);
 }
 
+
 /* Make image responsive */
 .about--section--img > img {
-  width: 100%;
-  height: auto; /* change from 100% to auto to maintain aspect ratio */
+  width: 180px;
+  height: 180px;
+  border-radius: 50%; /* Gjør bildet sirkulært */
+  object-fit: cover; /* Passer bildet perfekt inn */
+  border: 3px solid #f2f2f2; /* Valgfritt – lys ramme */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Myk skygge */
 }
 
 /* Mobile / Small screens */

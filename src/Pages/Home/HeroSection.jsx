@@ -1,19 +1,28 @@
 import "../../css/HeroSection.css";
+import { Link } from "react-scroll";
 
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content-box">
         <div className="hero--section--content">
-          <p className="section--title">Hei, Jeg er Mo Morjane</p>
           <h2 className="hero--section--title">
-            <span className="hero--section-title--color">Webutvikler &</span>
-            <br />
-            programmerer
+            <span className="hero--section-title--color">Webutvikler & </span>
+            Programmerer
           </h2>
           <p className="hero--section-description">
-            Målet mitt er å bygge løsninger som både <br /> ser bra ut og
-            fungerer godt for brukeren.
+            Jeg utvikler moderne og brukervennlige webapplikasjoner og bygger
+            intelligente systemer, fra AI-løsninger og maskinlæringsmodeller
+            til GUI-baserte programmer. Utforsk mine prosjekter{" "}
+            <Link
+              to="MyPortfolio"
+              smooth={true}
+              duration={600}
+              className="link"
+            >
+              her
+            </Link>
+            .
           </p>
         </div>
 
@@ -37,9 +46,7 @@ export default function HeroSection() {
 
           <button
             className="btn btn-github"
-            onClick={() =>
-              window.open("https://github.com/Morjane6", "_blank")
-            }
+            onClick={() => window.open("https://github.com/Morjane6", "_blank")}
           >
             Visit My GitHub
           </button>
@@ -47,7 +54,7 @@ export default function HeroSection() {
       </div>
 
       <div className="hero--section--img">
-        <img src="./img/hero-img-cartoon.png" alt="Hero Section" />
+        <img src="./img/om-meg.png" alt="Hero Section" />
       </div>
     </section>
   );
