@@ -34,7 +34,7 @@ function Footer() {
                 to="MyPortfolio"
                 className="text-md"
               >
-                Portfolio
+                Projects
               </Link>
             </li>
             <li>
@@ -106,8 +106,7 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
-      <p className="copyright">&copy; 2025 Portfolio Mo Morjane💖</p> 
-      
+      <p className="copyright">&copy; 2025 Portfolio Mo Morjane💖</p>
     </footer>
   );
 }

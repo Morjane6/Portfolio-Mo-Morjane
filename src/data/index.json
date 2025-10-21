@@ -15,7 +15,7 @@
       "src": "./img/backend.png",
       "title": "Back-End",
       "description": [
-        { "title": "SQL Database" },
+        { "title": "SQL Databaser" },
         { "title": "Python" },
         { "title": "PHP" },
         { "title": "Java" },
