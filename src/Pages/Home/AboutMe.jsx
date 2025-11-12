@@ -7,17 +7,20 @@ export default function AboutMe() {
         <div className="hero--section--content">
           <h1 className="section--heading">Om meg</h1>
           <p className="hero--section-description">
-            Fullstack webutvikler med bachelor i IT og informasjonssystemer fra
-            Universitetet i Sørøst-Norge, fullført våren 2025. Jeg har erfaring
-            med å utvikle responsive og brukervennlige webapplikasjoner ved
-            hjelp av HTML, CSS, JavaScript, PHP, SQL og React. Jeg kan også
-            bygge intelligente systemer, fra AI-løsninger og
-            maskinlæringsmodeller til GUI-baserte programmer, ved bruk av Python
-            og Java. Jeg liker å lage løsninger som kombinerer funksjonalitet,
-            struktur og godt design. Jeg er nysgjerrig av natur, liker å lære
-            nye ting og ønsker å utvikle meg videre som webutvikler og
-            programmerer. Målet mitt er å bygge løsninger som er moderne,
-            stabile og brukervennlige, og som skaper reell verdi for brukerne.
+            Jeg har over 13 års erfaring med kundeservice fra sikkerhets- og
+            teknologibransjen, og har de siste årene satset på å følge min
+            sterke interesse for teknologi og IT. Våren 2025 fullførte jeg en
+            bachelorgrad i IT og informasjonssystemer ved Universitetet i
+            Sørøst-Norge, med fordypning i systemutvikling, databaser,
+            webteknologi og applikasjonsutvikling. Gjennom studiet har jeg
+            opparbeidet solid teknisk kompetanse innen både maskinvare og
+            programvare, samt praktisk erfaring med programmering, databaser og
+            systemintegrasjon. Jeg har erfaring med språk og teknologier som
+            Python, SQL, Java, PHP, JavaScript, React, HTML og CSS, samt
+            grunnleggende forståelse for nettverk, operativsystemer (Linux) og
+            automasjonsteknologi. Jeg er teknisk anlagt og trives med å
+            feilsøke, konfigurere og optimalisere systemer for stabil og sikker
+            drift. Jeg arbeider strukturert og løsningsorientert.
           </p>
         </div>
       </div>

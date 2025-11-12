@@ -74,6 +74,14 @@
       "description": "Et automatisert ID-kontrollsystem basert på ansiktsgjenkjenning ved hjelp av Raspberry Pi, Picamera2, LED-moduler, OpenCV, dlib, MySQL og QR-kode som backup-løsning.",
       "github": "https://github.com/Morjane6/SSS3000R--ID-kontroll-med-ansiktsgjenkjenning",
       "demo": "https://verdant-marzipan-eb55b9.netlify.app"
+    },
+    {
+      "id": "6",
+      "src": "./img/about.png",
+      "title": "SomaliClothes",
+      "description": "En nettside laget med HTML, CSS og JavaScript. Nettsiden viser butikkens unike kleskolleksjoner inspirert av somalisk kultur, med moderne design.Den tilbyr en brukervennlig opplevelse for kunder.",
+      "github": "https://github.com/Morjane6/SomaliClothesAS",
+      "demo": "https://morjane6.github.io/SomaliClothesAS/"
     }
   ],
   "testimonial": [
