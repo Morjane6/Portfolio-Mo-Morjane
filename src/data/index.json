@@ -30,7 +30,10 @@
         { "title": "Github" },
         { "title": "Git" },
         { "title": "React" },
-        { "title": "Npm" }
+        { "title": "Apache" },
+        { "title": "Npm" },
+        { "title": "Linux (terminalbruk)" }
+        
       ]
     }
   ],

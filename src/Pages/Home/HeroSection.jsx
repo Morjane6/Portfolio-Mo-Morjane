@@ -11,9 +11,9 @@ export default function HeroSection() {
             Programmerer
           </h2>
           <p className="hero--section-description">
-            Jeg utvikler moderne og brukervennlige webapplikasjoner og bygger
-            intelligente systemer, fra AI-løsninger og maskinlæringsmodeller
-            til GUI-baserte programmer. Utforsk mine prosjekter{" "}
+            Jeg utvikler web- og applikasjonsløsninger med fokus på moderne
+            frontend-teknologier, backend og databaseintegrasjon, med vekt på
+            funksjonalitet, struktur og brukervennlighet. Utforsk mineprosjekter{" "}
             <Link
               to="MyPortfolio"
               smooth={true}
@@ -35,13 +35,6 @@ export default function HeroSection() {
             }}
           >
             Contact Me
-          </button>
-
-          <button
-            className="btn btn-color-1"
-            onClick={() => window.open("./cv/Mo-MorjaneCV-2025.pdf")}
-          >
-            Download CV
           </button>
 
           <button

@@ -7,20 +7,16 @@ export default function AboutMe() {
         <div className="hero--section--content">
           <h1 className="section--heading">Om meg</h1>
           <p className="hero--section-description">
-            Jeg har over 13 års erfaring med kundeservice fra sikkerhets- og
-            teknologibransjen, og har de siste årene satset på å følge min
-            sterke interesse for teknologi og IT. Våren 2025 fullførte jeg en
-            bachelorgrad i IT og informasjonssystemer ved Universitetet i
-            Sørøst-Norge, med fordypning i systemutvikling, databaser,
-            webteknologi og applikasjonsutvikling. Gjennom studiet har jeg
-            opparbeidet solid teknisk kompetanse innen både maskinvare og
-            programvare, samt praktisk erfaring med programmering, databaser og
-            systemintegrasjon. Jeg har erfaring med språk og teknologier som
-            Python, SQL, Java, PHP, JavaScript, React, HTML og CSS, samt
-            grunnleggende forståelse for nettverk, operativsystemer (Linux) og
-            automasjonsteknologi. Jeg er teknisk anlagt og trives med å
-            feilsøke, konfigurere og optimalisere systemer for stabil og sikker
-            drift. Jeg arbeider strukturert og løsningsorientert.
+            Bachelor i IT og informasjonssystemer ved Universitetet i
+            Sørøst-Norge, med fordypning i systemutvikling, webteknologi,
+            applikasjonsutvikling, databaser og AI-løsninger. Solid praktisk og
+            teoretisk erfaring med utvikling, systemintegrasjon, testing og
+            feilsøking av tekniske løsninger, både backend og frontend.
+            Ferdigheter i programmering med Python, Java, PHP, JavaScript,
+            React, HTML og CSS, samt erfaring med SQL-databaser (MySQL,
+            PostgreSQL), Linux-operativsystem (terminalbruk), nettverk og IoT-teknologi. Jeg
+            kan planlegge, dokumentere og gjennomføre prosjekter, veilede
+            brukere og tilpasse løsninger etter behov.
           </p>
         </div>
       </div>
